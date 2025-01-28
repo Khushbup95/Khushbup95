@@ -10,8 +10,8 @@ I am a dedicated and detail-oriented data analyst with a passion for transformin
 
 ## 📈 Projects
 
-### [Coffee Order Data Analysis]
-Analyzed data from over 22,000 individuals to enhance subscription products and expand the consumer market for Fit-Bit. Developed Python scripts for data analysis and provided actionable insights.
+### [Coffee Order Data Analysis](https://github.com/Khushbup95/Coffee-Order-Data-Analysis)
+Analyzed coffee order data to identify customer behavior, preferences, and purchasing patterns. Used Excel for data cleaning, statistical analysis, and dynamic visualizations with pivot tables and charts. Delivered actionable insights to improve operations and inventory planning. Presented recommendations through interactive dashboards and reports.
 
 ### [Bikers-Buyers-Data-Analysis](https://github.com/Khushbup95/Bikers-Buyers-Data-Analysis)
 Analyzed bike purchase trends to identify customer demographics, behaviors, and preferences. Used Excel for data cleaning, pivot tables, and advanced visualizations. Built interactive dashboards for real-time sales and customer insights. Provided actionable recommendations to enhance marketing strategies and streamline inventory management.
