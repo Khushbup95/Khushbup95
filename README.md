@@ -10,14 +10,14 @@ I am a dedicated and detail-oriented data analyst with a passion for transformin
 
 ## 📈 Projects
 
-### [Fit-Bit Data Analysis](https://github.com/khushbu-patel/fit-bit-data-analysis)
+### [Coffee Order Data Analysis]
 Analyzed data from over 22,000 individuals to enhance subscription products and expand the consumer market for Fit-Bit. Developed Python scripts for data analysis and provided actionable insights.
 
-### [Movie Recommendation System](https://github.com/khushbu-patel/movie-recommendation-system)
-Built a simple recommendation system using collaborative filtering techniques, including user-based and item-based filtering.
+### [Bikers-Buyers-Data-Analysis](https://github.com/Khushbup95/Bikers-Buyers-Data-Analysis)
+Analyzed bike purchase trends to identify customer demographics, behaviors, and preferences. Used Excel for data cleaning, pivot tables, and advanced visualizations. Built interactive dashboards for real-time sales and customer insights. Provided actionable recommendations to enhance marketing strategies and streamline inventory management.
 
-### [Housing Data EDA](https://github.com/khushbu-patel/housing-data-eda)
-Conducted Exploratory Data Analysis on a housing dataset using Python to visualize relationships between variables and derive insights.
+### [Data-Professional-Survey-Analysis](https://github.com/Khushbup95/Data-Professional-Survey-Analysis)
+Analyzed survey responses from data professionals to extract insights on demographics, career preferences, and tech adoption. Designed interactive Power BI dashboards using advanced data modeling and DAX for effective visualization. Delivered actionable insights via data storytelling to support strategic decision-making.
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/khushbu-patel-908a98b0/)
